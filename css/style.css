@@ -126,6 +126,11 @@ header .row{
 .why-and-buy{
     background: #1E2230;
 }
+.whu-and-buy-slider .slider-item{
+    background-size: cover !Important;
+background-position: center !important;
+    background-repeat: no-repeat !important;
+}
 .whu-and-buy-slider{
 
 }
